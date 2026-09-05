@@ -1,0 +1,9 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "description": "API en Node.js para HT2 Seminario",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
